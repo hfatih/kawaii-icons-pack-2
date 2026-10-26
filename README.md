@@ -32,7 +32,7 @@
 
 ## Overview
 
-**Kawaii Icons Pack 2** is an ultra-high-definition, refreshing pastel icon collection crafted specifically for **Elgato Stream Deck**, **Evoxdeck**, **Loupedeck**, and **Touch Portal**.
+**Kawaii Icons Pack 2** is an ultra-high-definition, refreshing pastel icon collection crafted specifically for **Stream & Macro Decks**, **Evoxdeck**, **Loupedeck**, and **Touch Portal**.
 
 Rendered with precision superellipse ($p=4.0, r=54$) squircles at Retina $128\times 128$ resolution, combining airy pastel sky blue and refreshing sweet mint gradients with 6 delightful anime texture patterns.
 
@@ -76,7 +76,7 @@ Every symbol is available in 6 distinct aesthetic patterns:
 ## Curated Symbol Categories (166 Glyphs × 12 Themes)
 
 1. **🐱 Kawaii & Customs:** Kawaii Cat, Kawaii Smile, Lotus Petals, Heart Folder, BRB Badge, END Badge, Monitor Snow/Sun/Plus/Minus, Hearts, Sparkles.
-2. **📱 Social & Creator Platforms:** TikTok (clean minimalist white glyph), YouTube, Twitch, Discord, Instagram, Twitter/X, Facebook, Spotify, Steam, Kick, Reddit, Telegram, WhatsApp, Snapchat, GitHub, Patreon, OBS Studio, Streamlabs, Audacity, Blender.
+2. **📱 Social & Creator Platforms:** TikTok (clean minimalist white glyph), YouTube, Twitch, Discord, Instagram, Twitter/X, Facebook, Spotify, Steam, Kick, Reddit, Telegram, WhatsApp, Snapchat, GitHub, OBS Studio, Streamlabs, Audacity, Blender.
 3. **🎙️ Audio & Voice Controls:** Mic, Headphones, Volume (0-1-2-Mute), Bell, Soundlines, Waveforms. Muted/Off states feature an elegant wine-red (`#691237`) diagonal slash.
 4. **🎵 Media & Music:** Play, Pause, Skip, Rewind, Shuffle, Repeat, Disc, Radio, Podcast, Guitar, Camera, Video, FL Studio, Apple Music.
 5. **⭐ Streamer Badges:** REC, LIVE, Game Audio, Music Audio, Mute, Deaf, Mic On, GG, VIP, MOD, Clutch, AFK, Hype, Sub, Chat, Poll, Clip, Trophy, Crown, Flame, Zap.
@@ -91,7 +91,7 @@ Every symbol is available in 6 distinct aesthetic patterns:
 flowchart TD
     A["Download .evoxpack<br/>from GitHub Releases"] --> B{Target Software}
     B -->|"Evoxdeck"| C["One-Click Import<br/>Double click or Drag into Evoxdeck"]
-    B -->|"Elgato Stream Deck"| D["Extract icons/ folder<br/>Assign PNG directly to keys"]
+    B -->|"Stream & Macro Decks"| D["Extract icons/ folder<br/>Assign PNG directly to keys"]
     C --> E["Instant 2,000 Key Selection"]
     D --> E
 ```
@@ -101,9 +101,9 @@ flowchart TD
 2. Double-click the file or open **Evoxdeck** ➔ **Settings** ➔ **Icon Packs** ➔ **Import Pack**.
 3. All 2,000 icons and categories will appear instantly in your Evoxdeck library.
 
-### 2. Elgato Stream Deck
+### 2. Stream & Macro Decks
 1. Extract `icons/` folder from the repository or `.evoxpack`.
-2. In the Elgato Stream Deck configuration software, drag and drop any PNG onto a key slot.
+2. In the Stream & Macro Decks configuration software, drag and drop any PNG onto a key slot.
 
 ---
 

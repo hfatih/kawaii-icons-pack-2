@@ -97,11 +97,6 @@
         "path": "icons/icon-0016-sky-blue-plain-github.png"
       },
       {
-        "id": "icon-0017-sky-blue-plain-patreon",
-        "name": "Sky Blue Plain Patreon",
-        "path": "icons/icon-0017-sky-blue-plain-patreon.png"
-      },
-      {
         "id": "icon-0018-sky-blue-plain-google-meet",
         "name": "Sky Blue Plain Google Meet",
         "path": "icons/icon-0018-sky-blue-plain-google-meet.png"
@@ -930,11 +925,6 @@
         "id": "icon-0183-sky-blue-grid-github",
         "name": "Sky Blue Grid Github",
         "path": "icons/icon-0183-sky-blue-grid-github.png"
-      },
-      {
-        "id": "icon-0184-sky-blue-grid-patreon",
-        "name": "Sky Blue Grid Patreon",
-        "path": "icons/icon-0184-sky-blue-grid-patreon.png"
       },
       {
         "id": "icon-0185-sky-blue-grid-google-meet",
@@ -1767,11 +1757,6 @@
         "path": "icons/icon-0350-sky-blue-stars-github.png"
       },
       {
-        "id": "icon-0351-sky-blue-stars-patreon",
-        "name": "Sky Blue Stars Patreon",
-        "path": "icons/icon-0351-sky-blue-stars-patreon.png"
-      },
-      {
         "id": "icon-0352-sky-blue-stars-google-meet",
         "name": "Sky Blue Stars Google Meet",
         "path": "icons/icon-0352-sky-blue-stars-google-meet.png"
@@ -2600,11 +2585,6 @@
         "id": "icon-0517-sky-blue-clouds-github",
         "name": "Sky Blue Clouds Github",
         "path": "icons/icon-0517-sky-blue-clouds-github.png"
-      },
-      {
-        "id": "icon-0518-sky-blue-clouds-patreon",
-        "name": "Sky Blue Clouds Patreon",
-        "path": "icons/icon-0518-sky-blue-clouds-patreon.png"
       },
       {
         "id": "icon-0519-sky-blue-clouds-google-meet",
@@ -3437,11 +3417,6 @@
         "path": "icons/icon-0684-sky-blue-grid-stars-github.png"
       },
       {
-        "id": "icon-0685-sky-blue-grid-stars-patreon",
-        "name": "Sky Blue Grid Stars Patreon",
-        "path": "icons/icon-0685-sky-blue-grid-stars-patreon.png"
-      },
-      {
         "id": "icon-0686-sky-blue-grid-stars-google-meet",
         "name": "Sky Blue Grid Stars Google Meet",
         "path": "icons/icon-0686-sky-blue-grid-stars-google-meet.png"
@@ -4267,11 +4242,6 @@
         "path": "icons/icon-0850-sky-blue-clouds-stars-github.png"
       },
       {
-        "id": "icon-0851-sky-blue-clouds-stars-patreon",
-        "name": "Sky Blue Clouds Stars Patreon",
-        "path": "icons/icon-0851-sky-blue-clouds-stars-patreon.png"
-      },
-      {
         "id": "icon-0852-sky-blue-clouds-stars-google-meet",
         "name": "Sky Blue Clouds Stars Google Meet",
         "path": "icons/icon-0852-sky-blue-clouds-stars-google-meet.png"
@@ -5095,11 +5065,6 @@
         "id": "icon-1016-sweet-mint-plain-github",
         "name": "Sweet Mint Plain Github",
         "path": "icons/icon-1016-sweet-mint-plain-github.png"
-      },
-      {
-        "id": "icon-1017-sweet-mint-plain-patreon",
-        "name": "Sweet Mint Plain Patreon",
-        "path": "icons/icon-1017-sweet-mint-plain-patreon.png"
       },
       {
         "id": "icon-1018-sweet-mint-plain-google-meet",
@@ -5932,11 +5897,6 @@
         "path": "icons/icon-1183-sweet-mint-grid-github.png"
       },
       {
-        "id": "icon-1184-sweet-mint-grid-patreon",
-        "name": "Sweet Mint Grid Patreon",
-        "path": "icons/icon-1184-sweet-mint-grid-patreon.png"
-      },
-      {
         "id": "icon-1185-sweet-mint-grid-google-meet",
         "name": "Sweet Mint Grid Google Meet",
         "path": "icons/icon-1185-sweet-mint-grid-google-meet.png"
@@ -6765,11 +6725,6 @@
         "id": "icon-1350-sweet-mint-stars-github",
         "name": "Sweet Mint Stars Github",
         "path": "icons/icon-1350-sweet-mint-stars-github.png"
-      },
-      {
-        "id": "icon-1351-sweet-mint-stars-patreon",
-        "name": "Sweet Mint Stars Patreon",
-        "path": "icons/icon-1351-sweet-mint-stars-patreon.png"
       },
       {
         "id": "icon-1352-sweet-mint-stars-google-meet",
@@ -7602,11 +7557,6 @@
         "path": "icons/icon-1517-sweet-mint-clouds-github.png"
       },
       {
-        "id": "icon-1518-sweet-mint-clouds-patreon",
-        "name": "Sweet Mint Clouds Patreon",
-        "path": "icons/icon-1518-sweet-mint-clouds-patreon.png"
-      },
-      {
         "id": "icon-1519-sweet-mint-clouds-google-meet",
         "name": "Sweet Mint Clouds Google Meet",
         "path": "icons/icon-1519-sweet-mint-clouds-google-meet.png"
@@ -8437,11 +8387,6 @@
         "path": "icons/icon-1684-sweet-mint-grid-stars-github.png"
       },
       {
-        "id": "icon-1685-sweet-mint-grid-stars-patreon",
-        "name": "Sweet Mint Grid Stars Patreon",
-        "path": "icons/icon-1685-sweet-mint-grid-stars-patreon.png"
-      },
-      {
         "id": "icon-1686-sweet-mint-grid-stars-google-meet",
         "name": "Sweet Mint Grid Stars Google Meet",
         "path": "icons/icon-1686-sweet-mint-grid-stars-google-meet.png"
@@ -9265,11 +9210,6 @@
         "id": "icon-1850-sweet-mint-clouds-stars-github",
         "name": "Sweet Mint Clouds Stars Github",
         "path": "icons/icon-1850-sweet-mint-clouds-stars-github.png"
-      },
-      {
-        "id": "icon-1851-sweet-mint-clouds-stars-patreon",
-        "name": "Sweet Mint Clouds Stars Patreon",
-        "path": "icons/icon-1851-sweet-mint-clouds-stars-patreon.png"
       },
       {
         "id": "icon-1852-sweet-mint-clouds-stars-google-meet",
